@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "691e2279c92286922f63b12a"
+  },
+  "origen_usuario_id": 1,
+  "nombre": "juanperez",
+  "correo": "juan.perez@mail.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "K4ys3r#202438+",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.672Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b12b"
+  },
+  "origen_usuario_id": 5,
+  "nombre": "Carlos Ramírez",
+  "correo": "carlosramirez@yahoo.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Carlos123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.684Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b12c"
+  },
+  "origen_usuario_id": 6,
+  "nombre": "Andrés Torres",
+  "correo": "andrestorres@gmail.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Andres123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.687Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b12d"
+  },
+  "origen_usuario_id": 7,
+  "nombre": "Laura Méndez",
+  "correo": "lauramendez@hotmail.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Laura123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.691Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b12e"
+  },
+  "origen_usuario_id": 8,
+  "nombre": "Felipe Gómez",
+  "correo": "felipegomez@yahoo.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Felipe123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.694Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b12f"
+  },
+  "origen_usuario_id": 9,
+  "nombre": "Sofía Ramírez",
+  "correo": "sofiaramirez@gmail.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Sofia123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.697Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b130"
+  },
+  "origen_usuario_id": 10,
+  "nombre": "Camilo Herrera",
+  "correo": "camilo.herrera@outlook.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Camilo123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.700Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b131"
+  },
+  "origen_usuario_id": 17,
+  "nombre": "Pedro López",
+  "correo": "pedro.lopez@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Pedro123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.703Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b132"
+  },
+  "origen_usuario_id": 18,
+  "nombre": "Ana Torres",
+  "correo": "ana.torres@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Ana123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.706Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b133"
+  },
+  "origen_usuario_id": 19,
+  "nombre": "Luis Martínez",
+  "correo": "luis.martinez@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Luis123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.709Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b134"
+  },
+  "origen_usuario_id": 20,
+  "nombre": "Santiago Ruiz",
+  "correo": "santiago.ruiz@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Santiago123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.713Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b135"
+  },
+  "origen_usuario_id": 21,
+  "nombre": "Mariana Pérez",
+  "correo": "mariana.perez@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Mariana123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.716Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b136"
+  },
+  "origen_usuario_id": 22,
+  "nombre": "David Gómez",
+  "correo": "david.gomez@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "David123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.721Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b137"
+  },
+  "origen_usuario_id": 23,
+  "nombre": "Laura Méndez",
+  "correo": "laura.mendez@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Laura123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.725Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b138"
+  },
+  "origen_usuario_id": 24,
+  "nombre": "Camilo Herrera",
+  "correo": "camilo.herrera@empresa.com",
+  "rol": {
+    "rol_id": 2,
+    "nombre": "Empleado",
+    "descripcion": "Acceso limitado para registrar y consultar información"
+  },
+  "contraseña": "Camilo123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.728Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b139"
+  },
+  "origen_usuario_id": 63,
+  "nombre": "Juan Pérez",
+  "correo": "juanpereeez@gmail.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Juand123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.731Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b13a"
+  },
+  "origen_usuario_id": 64,
+  "nombre": "María Gómez",
+  "correo": "mariagomeasz@hotmail.com",
+  "rol": {
+    "rol_id": 3,
+    "nombre": "Cliente",
+    "descripcion": "Acceso para consultar y actualizar su propia información"
+  },
+  "contraseña": "Marias123#",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.735Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b13b"
+  },
+  "origen_usuario_id": 67,
+  "nombre": "JuanAdmin",
+  "correo": "juan.admin@example.com",
+  "rol": {
+    "rol_id": 1,
+    "nombre": "Administrador",
+    "descripcion": "Acceso total al sistema, gestión de usuarios y datos"
+  },
+  "contraseña": "admin123",
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.738Z"
+    }
+  }
+}]

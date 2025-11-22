@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b1"
+  },
+  "id_repuesto": 1,
+  "nombre": "Filtro de aceite",
+  "categoria": "Motor",
+  "precio": 50000,
+  "stock": 10,
+  "id_proveedor": 1
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b2"
+  },
+  "id_repuesto": 2,
+  "nombre": "Pastillas de freno",
+  "categoria": "Frenos",
+  "precio": 80000,
+  "stock": 4,
+  "id_proveedor": 2
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b3"
+  },
+  "id_repuesto": 3,
+  "nombre": "Cadena de transmisión",
+  "categoria": "Transmisión",
+  "precio": 150000,
+  "stock": 6,
+  "id_proveedor": 3
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b4"
+  },
+  "id_repuesto": 4,
+  "nombre": "Bujía NGK",
+  "categoria": "Encendido",
+  "precio": 25000,
+  "stock": 20,
+  "id_proveedor": 1
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b5"
+  },
+  "id_repuesto": 5,
+  "nombre": "Filtro de aire",
+  "categoria": "Motor",
+  "precio": 40000,
+  "stock": 15,
+  "id_proveedor": 2
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b6"
+  },
+  "id_repuesto": 6,
+  "nombre": "Kit de frenos",
+  "categoria": "Frenos",
+  "precio": 95000,
+  "stock": 8,
+  "id_proveedor": 3
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b7"
+  },
+  "id_repuesto": 7,
+  "nombre": "Llanta trasera 140/70",
+  "categoria": "Llantas",
+  "precio": 210000,
+  "stock": 5,
+  "id_proveedor": 4
+},
+{
+  "_id": {
+    "$oid": "691e1aef74e0501e708bf9b8"
+  },
+  "id_repuesto": 8,
+  "nombre": "Amortiguador trasero",
+  "categoria": "Suspensión",
+  "precio": 180000,
+  "stock": 7,
+  "id_proveedor": 5
+}]

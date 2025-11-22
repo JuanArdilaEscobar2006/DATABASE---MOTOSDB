@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9db"
+  },
+  "id_vehiculo": 1,
+  "VIN": "PYS89D",
+  "marca": "Yamaha",
+  "modelo": "FZ25",
+  "cilindraje": 250,
+  "anio": 2022,
+  "precio_base": 12240000,
+  "id_cliente": 1
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9dc"
+  },
+  "id_vehiculo": 2,
+  "VIN": "DSH74H",
+  "marca": "Honda",
+  "modelo": "CB190R",
+  "cilindraje": 190,
+  "anio": 2021,
+  "precio_base": 10500000,
+  "id_cliente": 2
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9dd"
+  },
+  "id_vehiculo": 3,
+  "VIN": "QBW85C",
+  "marca": "Suzuki",
+  "modelo": "Gixxer 150",
+  "cilindraje": 155,
+  "anio": 2023,
+  "precio_base": 9975000,
+  "id_cliente": 3
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9de"
+  },
+  "id_vehiculo": 16,
+  "VIN": "VIN002345678",
+  "marca": "KTM",
+  "modelo": "Duke 200",
+  "cilindraje": 200,
+  "anio": 2023,
+  "precio_base": 16275000,
+  "id_cliente": 14
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9df"
+  },
+  "id_vehiculo": 17,
+  "VIN": "VIN003456789",
+  "marca": "TVS",
+  "modelo": "Apache 160 4V",
+  "cilindraje": 160,
+  "anio": 2022,
+  "precio_base": 11730000,
+  "id_cliente": 15
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9e0"
+  },
+  "id_vehiculo": 18,
+  "VIN": "VIN005678901",
+  "marca": "Yamaha",
+  "modelo": "MT-15",
+  "cilindraje": 155,
+  "anio": 2024,
+  "precio_base": 17500000,
+  "id_cliente": 16
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9e1"
+  },
+  "id_vehiculo": 19,
+  "VIN": "VIN006789012",
+  "marca": "Bajaj",
+  "modelo": "Dominar 400",
+  "cilindraje": 400,
+  "anio": 2023,
+  "precio_base": 19425000,
+  "id_cliente": 17
+},
+{
+  "_id": {
+    "$oid": "691e1b1474e0501e708bf9e2"
+  },
+  "id_vehiculo": 20,
+  "VIN": "VIN007890123",
+  "marca": "Hero",
+  "modelo": "Hunk 160R",
+  "cilindraje": 160,
+  "anio": 2021,
+  "precio_base": 9500000,
+  "id_cliente": 18
+}]

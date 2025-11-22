@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf99f"
+  },
+  "id_orden": 1,
+  "fecha": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  },
+  "tipo_servicio": "Cambio de aceite",
+  "estado": "Completada",
+  "id_vehiculo": 1,
+  "id_empleado": 2
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a0"
+  },
+  "id_orden": 2,
+  "fecha": {
+    "$date": "2024-02-20T00:00:00.000Z"
+  },
+  "tipo_servicio": "Cambio de frenos",
+  "estado": "Pendiente",
+  "id_vehiculo": 2,
+  "id_empleado": 2
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a1"
+  },
+  "id_orden": 3,
+  "fecha": {
+    "$date": "2024-03-05T00:00:00.000Z"
+  },
+  "tipo_servicio": "Ajuste de cadena",
+  "estado": "En proceso",
+  "id_vehiculo": 3,
+  "id_empleado": 2
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a2"
+  },
+  "id_orden": 4,
+  "fecha": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "tipo_servicio": "Cambio de aceite",
+  "estado": "Completada",
+  "id_vehiculo": 16,
+  "id_empleado": 5
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a3"
+  },
+  "id_orden": 5,
+  "fecha": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "tipo_servicio": "Cambio de filtro de aire",
+  "estado": "Completada",
+  "id_vehiculo": 17,
+  "id_empleado": 5
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a4"
+  },
+  "id_orden": 6,
+  "fecha": {
+    "$date": "2024-06-12T00:00:00.000Z"
+  },
+  "tipo_servicio": "Revisión general",
+  "estado": "Pendiente",
+  "id_vehiculo": 18,
+  "id_empleado": 5
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a5"
+  },
+  "id_orden": 7,
+  "fecha": {
+    "$date": "2024-07-01T00:00:00.000Z"
+  },
+  "tipo_servicio": "Ajuste de válvulas",
+  "estado": "En proceso",
+  "id_vehiculo": 19,
+  "id_empleado": 2
+},
+{
+  "_id": {
+    "$oid": "691e1ae474e0501e708bf9a6"
+  },
+  "id_orden": 8,
+  "fecha": {
+    "$date": "2024-08-20T00:00:00.000Z"
+  },
+  "tipo_servicio": "Cambio de pastillas de freno",
+  "estado": "Completada",
+  "id_vehiculo": 20,
+  "id_empleado": 5
+}]

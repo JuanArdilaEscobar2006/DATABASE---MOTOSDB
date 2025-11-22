@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9be"
+  },
+  "id_sucursal": 1,
+  "nombre": "Sucursal Norte",
+  "direccion": "Calle 100 #25-50",
+  "ciudad": "BOGOTA"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9bf"
+  },
+  "id_sucursal": 2,
+  "nombre": "Sucursal Centro",
+  "direccion": "Cra 7 #12-89",
+  "ciudad": "BOGOTA"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9c0"
+  },
+  "id_sucursal": 3,
+  "nombre": "Sucursal Sur",
+  "direccion": "Av 30 #45-67",
+  "ciudad": "BOGOTA"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9c1"
+  },
+  "id_sucursal": 4,
+  "nombre": "Sucursal Occidente",
+  "direccion": "Calle 80 #45-23",
+  "ciudad": "QUINDIO"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9c2"
+  },
+  "id_sucursal": 5,
+  "nombre": "Sucursal Oriente",
+  "direccion": "Av 68 #15-09",
+  "ciudad": "VILLAVICENCIO"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9c3"
+  },
+  "id_sucursal": 6,
+  "nombre": "Sucursal Costa",
+  "direccion": "Cra 50 #102-15 ",
+  "ciudad": "BARRANQUILLA"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9c4"
+  },
+  "id_sucursal": 7,
+  "nombre": "Sucursal ANT",
+  "direccion": "CALLE 12 #19-54",
+  "ciudad": "MEDELLIN"
+},
+{
+  "_id": {
+    "$oid": "691e1afb74e0501e708bf9c5"
+  },
+  "id_sucursal": 8,
+  "nombre": "Sucursal Cafetera",
+  "direccion": "Calle 9 #22-40 ",
+  "ciudad": "PEREIRA"
+}]

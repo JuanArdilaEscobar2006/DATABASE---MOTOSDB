@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9a8"
+  },
+  "id_proveedor": 1,
+  "nombre": "Repuestos MotoPro",
+  "contacto": "Carlos Gómez",
+  "direccion": "Cra 50 #20-30"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9a9"
+  },
+  "id_proveedor": 2,
+  "nombre": "SpeedParts Ltda",
+  "contacto": "Laura Díaz",
+  "direccion": "Av 80 #10-55"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9aa"
+  },
+  "id_proveedor": 3,
+  "nombre": "FullBike S.A.",
+  "contacto": "Andrés Torres",
+  "direccion": "Calle 15 #7-99"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9ab"
+  },
+  "id_proveedor": 4,
+  "nombre": "MotoRepuestos Andes",
+  "contacto": "Sergio Castro",
+  "direccion": "Cra 70 #15-30"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9ac"
+  },
+  "id_proveedor": 5,
+  "nombre": "PowerBikes Ltda",
+  "contacto": "Valentina Rojas",
+  "direccion": "Calle 45 #10-22"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9ad"
+  },
+  "id_proveedor": 6,
+  "nombre": "TecnoMoto S.A.S",
+  "contacto": "Felipe Díaz",
+  "direccion": "Av 68 #55-70"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9ae"
+  },
+  "id_proveedor": 7,
+  "nombre": "SuperBikes Import",
+  "contacto": "Andrés Peña",
+  "direccion": "Cra 30 #25-16"
+},
+{
+  "_id": {
+    "$oid": "691e1aea74e0501e708bf9af"
+  },
+  "id_proveedor": 8,
+  "nombre": "RuedaLibre Distribuciones",
+  "contacto": "Catalina Gómez",
+  "direccion": "Calle 13 #45-09"
+}]

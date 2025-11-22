@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf98b"
+  },
+  "id_factura": 1,
+  "monto_total": 12000000,
+  "fecha_emision": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "id_venta": 1
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf98c"
+  },
+  "id_factura": 2,
+  "monto_total": 10500000,
+  "fecha_emision": {
+    "$date": "2025-09-02T00:00:00.000Z"
+  },
+  "id_venta": 2
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf98d"
+  },
+  "id_factura": 3,
+  "monto_total": 9500000,
+  "fecha_emision": {
+    "$date": "2023-11-15T00:00:00.000Z"
+  },
+  "id_venta": 3
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf98e"
+  },
+  "id_factura": 9,
+  "monto_total": 15500000,
+  "fecha_emision": {
+    "$date": "2024-01-20T00:00:00.000Z"
+  },
+  "id_venta": 14
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf98f"
+  },
+  "id_factura": 10,
+  "monto_total": 11500000,
+  "fecha_emision": {
+    "$date": "2024-02-10T00:00:00.000Z"
+  },
+  "id_venta": 15
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf990"
+  },
+  "id_factura": 11,
+  "monto_total": 17500000,
+  "fecha_emision": {
+    "$date": "2024-03-05T00:00:00.000Z"
+  },
+  "id_venta": 16
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf991"
+  },
+  "id_factura": 12,
+  "monto_total": 18500000,
+  "fecha_emision": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "id_venta": 17
+},
+{
+  "_id": {
+    "$oid": "691e1aa774e0501e708bf992"
+  },
+  "id_factura": 13,
+  "monto_total": 9500000,
+  "fecha_emision": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "id_venta": 18
+}]

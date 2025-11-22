@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9c8"
+  },
+  "usuario_id": 1,
+  "nombre": "juanperez",
+  "correo": "juan.perez@mail.com",
+  "rol_id": 3,
+  "contraseña": "K4ys3r#202438+"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9c9"
+  },
+  "usuario_id": 5,
+  "nombre": "Carlos Ramírez",
+  "correo": "carlosramirez@yahoo.com",
+  "rol_id": 3,
+  "contraseña": "Carlos123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9ca"
+  },
+  "usuario_id": 6,
+  "nombre": "Andrés Torres",
+  "correo": "andrestorres@gmail.com",
+  "rol_id": 3,
+  "contraseña": "Andres123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9cb"
+  },
+  "usuario_id": 7,
+  "nombre": "Laura Méndez",
+  "correo": "lauramendez@hotmail.com",
+  "rol_id": 3,
+  "contraseña": "Laura123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9cc"
+  },
+  "usuario_id": 8,
+  "nombre": "Felipe Gómez",
+  "correo": "felipegomez@yahoo.com",
+  "rol_id": 3,
+  "contraseña": "Felipe123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9cd"
+  },
+  "usuario_id": 9,
+  "nombre": "Sofía Ramírez",
+  "correo": "sofiaramirez@gmail.com",
+  "rol_id": 3,
+  "contraseña": "Sofia123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9ce"
+  },
+  "usuario_id": 10,
+  "nombre": "Camilo Herrera",
+  "correo": "camilo.herrera@outlook.com",
+  "rol_id": 3,
+  "contraseña": "Camilo123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9cf"
+  },
+  "usuario_id": 17,
+  "nombre": "Pedro López",
+  "correo": "pedro.lopez@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Pedro123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d0"
+  },
+  "usuario_id": 18,
+  "nombre": "Ana Torres",
+  "correo": "ana.torres@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Ana123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d1"
+  },
+  "usuario_id": 19,
+  "nombre": "Luis Martínez",
+  "correo": "luis.martinez@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Luis123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d2"
+  },
+  "usuario_id": 20,
+  "nombre": "Santiago Ruiz",
+  "correo": "santiago.ruiz@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Santiago123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d3"
+  },
+  "usuario_id": 21,
+  "nombre": "Mariana Pérez",
+  "correo": "mariana.perez@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Mariana123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d4"
+  },
+  "usuario_id": 22,
+  "nombre": "David Gómez",
+  "correo": "david.gomez@empresa.com",
+  "rol_id": 2,
+  "contraseña": "David123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d5"
+  },
+  "usuario_id": 23,
+  "nombre": "Laura Méndez",
+  "correo": "laura.mendez@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Laura123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d6"
+  },
+  "usuario_id": 24,
+  "nombre": "Camilo Herrera",
+  "correo": "camilo.herrera@empresa.com",
+  "rol_id": 2,
+  "contraseña": "Camilo123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d7"
+  },
+  "usuario_id": 63,
+  "nombre": "Juan Pérez",
+  "correo": "juanpereeez@gmail.com",
+  "rol_id": 3,
+  "contraseña": "Juand123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d8"
+  },
+  "usuario_id": 64,
+  "nombre": "María Gómez",
+  "correo": "mariagomeasz@hotmail.com",
+  "rol_id": 3,
+  "contraseña": "Marias123#"
+},
+{
+  "_id": {
+    "$oid": "691e1b0f74e0501e708bf9d9"
+  },
+  "usuario_id": 67,
+  "nombre": "JuanAdmin",
+  "correo": "juan.admin@example.com",
+  "rol_id": 1,
+  "contraseña": "admin123"
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "691e1af574e0501e708bf9ba"
+  },
+  "rol_id": 1,
+  "nombre": "Administrador",
+  "descripcion": "Acceso total al sistema, gestión de usuarios y datos"
+},
+{
+  "_id": {
+    "$oid": "691e1af574e0501e708bf9bb"
+  },
+  "rol_id": 2,
+  "nombre": "Empleado",
+  "descripcion": "Acceso limitado para registrar y consultar información"
+},
+{
+  "_id": {
+    "$oid": "691e1af574e0501e708bf9bc"
+  },
+  "rol_id": 3,
+  "nombre": "Cliente",
+  "descripcion": "Acceso para consultar y actualizar su propia información"
+}]

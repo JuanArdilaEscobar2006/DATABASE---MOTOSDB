@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "691e2279c92286922f63b122"
+  },
+  "origen_id_repuesto": 1,
+  "nombre": "Filtro de aceite",
+  "categoria": "Motor",
+  "precio": 50000,
+  "stock": 10,
+  "proveedor": {
+    "id_proveedor": 1,
+    "nombre": "Repuestos MotoPro",
+    "contacto": "Carlos Gómez",
+    "direccion": "Cra 50 #20-30"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.637Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b123"
+  },
+  "origen_id_repuesto": 2,
+  "nombre": "Pastillas de freno",
+  "categoria": "Frenos",
+  "precio": 80000,
+  "stock": 4,
+  "proveedor": {
+    "id_proveedor": 2,
+    "nombre": "SpeedParts Ltda",
+    "contacto": "Laura Díaz",
+    "direccion": "Av 80 #10-55"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.648Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b124"
+  },
+  "origen_id_repuesto": 3,
+  "nombre": "Cadena de transmisión",
+  "categoria": "Transmisión",
+  "precio": 150000,
+  "stock": 6,
+  "proveedor": {
+    "id_proveedor": 3,
+    "nombre": "FullBike S.A.",
+    "contacto": "Andrés Torres",
+    "direccion": "Calle 15 #7-99"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.651Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b125"
+  },
+  "origen_id_repuesto": 4,
+  "nombre": "Bujía NGK",
+  "categoria": "Encendido",
+  "precio": 25000,
+  "stock": 20,
+  "proveedor": {
+    "id_proveedor": 1,
+    "nombre": "Repuestos MotoPro",
+    "contacto": "Carlos Gómez",
+    "direccion": "Cra 50 #20-30"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.653Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b126"
+  },
+  "origen_id_repuesto": 5,
+  "nombre": "Filtro de aire",
+  "categoria": "Motor",
+  "precio": 40000,
+  "stock": 15,
+  "proveedor": {
+    "id_proveedor": 2,
+    "nombre": "SpeedParts Ltda",
+    "contacto": "Laura Díaz",
+    "direccion": "Av 80 #10-55"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.656Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b127"
+  },
+  "origen_id_repuesto": 6,
+  "nombre": "Kit de frenos",
+  "categoria": "Frenos",
+  "precio": 95000,
+  "stock": 8,
+  "proveedor": {
+    "id_proveedor": 3,
+    "nombre": "FullBike S.A.",
+    "contacto": "Andrés Torres",
+    "direccion": "Calle 15 #7-99"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.659Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b128"
+  },
+  "origen_id_repuesto": 7,
+  "nombre": "Llanta trasera 140/70",
+  "categoria": "Llantas",
+  "precio": 210000,
+  "stock": 5,
+  "proveedor": {
+    "id_proveedor": 4,
+    "nombre": "MotoRepuestos Andes",
+    "contacto": "Sergio Castro",
+    "direccion": "Cra 70 #15-30"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.662Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b129"
+  },
+  "origen_id_repuesto": 8,
+  "nombre": "Amortiguador trasero",
+  "categoria": "Suspensión",
+  "precio": 180000,
+  "stock": 7,
+  "proveedor": {
+    "id_proveedor": 5,
+    "nombre": "PowerBikes Ltda",
+    "contacto": "Valentina Rojas",
+    "direccion": "Calle 45 #10-22"
+  },
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.666Z"
+    }
+  }
+}]

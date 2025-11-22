@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf982"
+  },
+  "id_empleado": 1,
+  "nombre": "Pedro López",
+  "rol": "Vendedor",
+  "correo": "pedro.lopez@empresa.com",
+  "salario": 2500000,
+  "id_sucursal": 1
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf983"
+  },
+  "id_empleado": 2,
+  "nombre": "Ana Torres",
+  "rol": "Mecánico",
+  "correo": "ana.torres@empresa.com",
+  "salario": 2800000,
+  "id_sucursal": 2
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf984"
+  },
+  "id_empleado": 3,
+  "nombre": "Luis Martínez",
+  "rol": "Cajero",
+  "correo": "luis.martinez@empresa.com",
+  "salario": 2200000,
+  "id_sucursal": 3
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf985"
+  },
+  "id_empleado": 4,
+  "nombre": "Santiago Ruiz",
+  "rol": "Asesor Comercial",
+  "correo": "santiago.ruiz@empresa.com",
+  "salario": 2400000,
+  "id_sucursal": 1
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf986"
+  },
+  "id_empleado": 5,
+  "nombre": "Mariana Pérez",
+  "rol": "Mecánico",
+  "correo": "mariana.perez@empresa.com",
+  "salario": 2850000,
+  "id_sucursal": 4
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf987"
+  },
+  "id_empleado": 6,
+  "nombre": "David Gómez",
+  "rol": "Administrador",
+  "correo": "david.gomez@empresa.com",
+  "salario": 3500000,
+  "id_sucursal": 5
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf988"
+  },
+  "id_empleado": 7,
+  "nombre": "Laura Méndez",
+  "rol": "Vendedor",
+  "correo": "laura.mendez@empresa.com",
+  "salario": 2300000,
+  "id_sucursal": 2
+},
+{
+  "_id": {
+    "$oid": "691e1a9c74e0501e708bf989"
+  },
+  "id_empleado": 8,
+  "nombre": "Camilo Herrera",
+  "rol": "Cajero",
+  "correo": "camilo.herrera@empresa.com",
+  "salario": 2100000,
+  "id_sucursal": 3
+}]

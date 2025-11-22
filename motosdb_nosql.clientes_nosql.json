@@ -1,0 +1,592 @@
+[{
+  "_id": {
+    "$oid": "691e2279c92286922f63b112"
+  },
+  "origen_id_cliente": 1,
+  "nombre": "Juan Pérez",
+  "documento": 12345678,
+  "telefono": {
+    "$numberLong": "3001112233"
+  },
+  "correo": "juanperez@gmail.com",
+  "direccion": "Cra 10 #12-34",
+  "vehiculos": [
+    {
+      "id_vehiculo": 1,
+      "VIN": "PYS89D",
+      "marca": "Yamaha",
+      "modelo": "FZ25",
+      "cilindraje": 250,
+      "anio": 2022,
+      "precio_base": 12240000,
+      "garantia": {
+        "id_garantia": 1,
+        "fecha_inicio": {
+          "$date": "2025-02-13T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2027-02-13T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura total 2 años"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 1,
+          "fecha": {
+            "$date": "2024-01-10T00:00:00.000Z"
+          },
+          "tipo_servicio": "Cambio de aceite",
+          "estado": "Completada",
+          "empleado": {
+            "id_empleado": 2,
+            "nombre": "Ana Torres",
+            "correo": "ana.torres@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 1,
+          "fecha": {
+            "$date": "2025-09-04T00:00:00.000Z"
+          },
+          "forma_pago": "Efectivo",
+          "estado": "Completada",
+          "factura": {
+            "id_factura": 1,
+            "monto_total": 12000000,
+            "fecha_emision": {
+              "$date": "2025-09-05T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.472Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b113"
+  },
+  "origen_id_cliente": 2,
+  "nombre": "María Gómez",
+  "documento": 98765432,
+  "telefono": {
+    "$numberLong": "3109876543"
+  },
+  "correo": "mariagomez@hotmail.com",
+  "direccion": "Calle 5 #45-22",
+  "vehiculos": [
+    {
+      "id_vehiculo": 2,
+      "VIN": "DSH74H",
+      "marca": "Honda",
+      "modelo": "CB190R",
+      "cilindraje": 190,
+      "anio": 2021,
+      "precio_base": 10500000,
+      "garantia": {
+        "id_garantia": 2,
+        "fecha_inicio": {
+          "$date": "2022-06-15T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2024-06-15T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura parcial motor"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 2,
+          "fecha": {
+            "$date": "2024-02-20T00:00:00.000Z"
+          },
+          "tipo_servicio": "Cambio de frenos",
+          "estado": "Pendiente",
+          "empleado": {
+            "id_empleado": 2,
+            "nombre": "Ana Torres",
+            "correo": "ana.torres@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 2,
+          "fecha": {
+            "$date": "2025-09-04T00:00:00.000Z"
+          },
+          "forma_pago": "Tarjeta",
+          "estado": "Completada",
+          "factura": {
+            "id_factura": 2,
+            "monto_total": 10500000,
+            "fecha_emision": {
+              "$date": "2025-09-02T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.497Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b114"
+  },
+  "origen_id_cliente": 3,
+  "nombre": "Carlos Ramírez",
+  "documento": 45678912,
+  "telefono": {
+    "$numberLong": "3204567890"
+  },
+  "correo": "carlosramirez@yahoo.com",
+  "direccion": "Calle 32 B sur #29-21",
+  "vehiculos": [
+    {
+      "id_vehiculo": 3,
+      "VIN": "QBW85C",
+      "marca": "Suzuki",
+      "modelo": "Gixxer 150",
+      "cilindraje": 155,
+      "anio": 2023,
+      "precio_base": 9975000,
+      "garantia": {
+        "id_garantia": 3,
+        "fecha_inicio": {
+          "$date": "2023-12-01T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2025-12-01T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura eléctrica y mecánica"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 3,
+          "fecha": {
+            "$date": "2024-03-05T00:00:00.000Z"
+          },
+          "tipo_servicio": "Ajuste de cadena",
+          "estado": "En proceso",
+          "empleado": {
+            "id_empleado": 2,
+            "nombre": "Ana Torres",
+            "correo": "ana.torres@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 3,
+          "fecha": {
+            "$date": "2025-12-24T00:00:00.000Z"
+          },
+          "forma_pago": "Transferencia",
+          "estado": "Pendiente",
+          "factura": {
+            "id_factura": 3,
+            "monto_total": 9500000,
+            "fecha_emision": {
+              "$date": "2023-11-15T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.513Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b115"
+  },
+  "origen_id_cliente": 14,
+  "nombre": "Andrés Torres",
+  "documento": 11223344,
+  "telefono": {
+    "$numberLong": "3019876543"
+  },
+  "correo": "andrestorres@gmail.com",
+  "direccion": "Carrera 8 #14-25",
+  "vehiculos": [
+    {
+      "id_vehiculo": 16,
+      "VIN": "VIN002345678",
+      "marca": "KTM",
+      "modelo": "Duke 200",
+      "cilindraje": 200,
+      "anio": 2023,
+      "precio_base": 16275000,
+      "garantia": {
+        "id_garantia": 14,
+        "fecha_inicio": {
+          "$date": "2024-01-01T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2026-01-01T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura completa 2 años"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 4,
+          "fecha": {
+            "$date": "2024-04-01T00:00:00.000Z"
+          },
+          "tipo_servicio": "Cambio de aceite",
+          "estado": "Completada",
+          "empleado": {
+            "id_empleado": 5,
+            "nombre": "Mariana Pérez",
+            "correo": "mariana.perez@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 14,
+          "fecha": {
+            "$date": "2024-01-20T00:00:00.000Z"
+          },
+          "forma_pago": "Efectivo",
+          "estado": "Completada",
+          "factura": {
+            "id_factura": 9,
+            "monto_total": 15500000,
+            "fecha_emision": {
+              "$date": "2024-01-20T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.528Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b116"
+  },
+  "origen_id_cliente": 15,
+  "nombre": "Laura Méndez",
+  "documento": 22334455,
+  "telefono": {
+    "$numberLong": "3201122334"
+  },
+  "correo": "lauramendez@hotmail.com",
+  "direccion": "Avenida 9 #23-41",
+  "vehiculos": [
+    {
+      "id_vehiculo": 17,
+      "VIN": "VIN003456789",
+      "marca": "TVS",
+      "modelo": "Apache 160 4V",
+      "cilindraje": 160,
+      "anio": 2022,
+      "precio_base": 11730000,
+      "garantia": {
+        "id_garantia": 15,
+        "fecha_inicio": {
+          "$date": "2024-02-10T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2026-02-10T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura parcial motor"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 5,
+          "fecha": {
+            "$date": "2024-05-10T00:00:00.000Z"
+          },
+          "tipo_servicio": "Cambio de filtro de aire",
+          "estado": "Completada",
+          "empleado": {
+            "id_empleado": 5,
+            "nombre": "Mariana Pérez",
+            "correo": "mariana.perez@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 15,
+          "fecha": {
+            "$date": "2024-02-10T00:00:00.000Z"
+          },
+          "forma_pago": "Transferencia",
+          "estado": "Completada",
+          "factura": {
+            "id_factura": 10,
+            "monto_total": 11500000,
+            "fecha_emision": {
+              "$date": "2024-02-10T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.542Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b117"
+  },
+  "origen_id_cliente": 16,
+  "nombre": "Felipe Gómez",
+  "documento": 33445566,
+  "telefono": {
+    "$numberLong": "3112233445"
+  },
+  "correo": "felipegomez@yahoo.com",
+  "direccion": "Calle 12 #9-18",
+  "vehiculos": [
+    {
+      "id_vehiculo": 18,
+      "VIN": "VIN005678901",
+      "marca": "Yamaha",
+      "modelo": "MT-15",
+      "cilindraje": 155,
+      "anio": 2024,
+      "precio_base": 17500000,
+      "garantia": {
+        "id_garantia": 16,
+        "fecha_inicio": {
+          "$date": "2024-03-05T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2026-03-05T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura eléctrica"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 6,
+          "fecha": {
+            "$date": "2024-06-12T00:00:00.000Z"
+          },
+          "tipo_servicio": "Revisión general",
+          "estado": "Pendiente",
+          "empleado": {
+            "id_empleado": 5,
+            "nombre": "Mariana Pérez",
+            "correo": "mariana.perez@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 16,
+          "fecha": {
+            "$date": "2024-03-05T00:00:00.000Z"
+          },
+          "forma_pago": "Tarjeta",
+          "estado": "Pendiente",
+          "factura": {
+            "id_factura": 11,
+            "monto_total": 17500000,
+            "fecha_emision": {
+              "$date": "2024-03-05T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.558Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b118"
+  },
+  "origen_id_cliente": 17,
+  "nombre": "Sofía Ramírez",
+  "documento": 44556677,
+  "telefono": {
+    "$numberLong": "3023344556"
+  },
+  "correo": "sofiaramirez@gmail.com",
+  "direccion": "Transversal 5 #67-20",
+  "vehiculos": [
+    {
+      "id_vehiculo": 19,
+      "VIN": "VIN006789012",
+      "marca": "Bajaj",
+      "modelo": "Dominar 400",
+      "cilindraje": 400,
+      "anio": 2023,
+      "precio_base": 19425000,
+      "garantia": {
+        "id_garantia": 17,
+        "fecha_inicio": {
+          "$date": "2024-04-12T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2026-04-12T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura total"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 7,
+          "fecha": {
+            "$date": "2024-07-01T00:00:00.000Z"
+          },
+          "tipo_servicio": "Ajuste de válvulas",
+          "estado": "En proceso",
+          "empleado": {
+            "id_empleado": 2,
+            "nombre": "Ana Torres",
+            "correo": "ana.torres@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 17,
+          "fecha": {
+            "$date": "2024-04-12T00:00:00.000Z"
+          },
+          "forma_pago": "Efectivo",
+          "estado": "Completada",
+          "factura": {
+            "id_factura": 12,
+            "monto_total": 18500000,
+            "fecha_emision": {
+              "$date": "2024-04-12T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.573Z"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "691e2279c92286922f63b119"
+  },
+  "origen_id_cliente": 18,
+  "nombre": "Camilo Herrera",
+  "documento": 55667788,
+  "telefono": {
+    "$numberLong": "3004455667"
+  },
+  "correo": "camilo.herrera@outlook.com",
+  "direccion": "Diagonal 21 #45-60",
+  "vehiculos": [
+    {
+      "id_vehiculo": 20,
+      "VIN": "VIN007890123",
+      "marca": "Hero",
+      "modelo": "Hunk 160R",
+      "cilindraje": 160,
+      "anio": 2021,
+      "precio_base": 9500000,
+      "garantia": {
+        "id_garantia": 18,
+        "fecha_inicio": {
+          "$date": "2024-05-18T00:00:00.000Z"
+        },
+        "fecha_fin": {
+          "$date": "2026-05-18T00:00:00.000Z"
+        },
+        "cobertura": "Cobertura de frenos y motor"
+      },
+      "mantenimientos": [
+        {
+          "id_orden": 8,
+          "fecha": {
+            "$date": "2024-08-20T00:00:00.000Z"
+          },
+          "tipo_servicio": "Cambio de pastillas de freno",
+          "estado": "Completada",
+          "empleado": {
+            "id_empleado": 5,
+            "nombre": "Mariana Pérez",
+            "correo": "mariana.perez@empresa.com",
+            "rol": "Mecánico"
+          }
+        }
+      ],
+      "ventas": [
+        {
+          "id_venta": 18,
+          "fecha": {
+            "$date": "2024-05-18T00:00:00.000Z"
+          },
+          "forma_pago": "Crédito",
+          "estado": "Completada",
+          "factura": {
+            "id_factura": 13,
+            "monto_total": 9500000,
+            "fecha_emision": {
+              "$date": "2024-05-18T00:00:00.000Z"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "testdrives": [],
+  "metadata": {
+    "migrado_desde": "mysql/csv",
+    "fecha_migracion": {
+      "$date": "2025-11-19T20:03:05.588Z"
+    }
+  }
+}]
